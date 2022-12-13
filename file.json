@@ -1,14 +1,15 @@
 {
-Januari	34	32
-Februari	32	31
-maret	30	30
-april	31	33
-Mei	29	28
-juni	32	30
-juli	28	29
-Agustus	26	27
-September	25	30
-Oktober	26	26
-November	27	24
-Desember	28	23
+
+    "Januari":[34,32],
+    "Februari":[32,31],
+    "Maret":[30,30],
+    "April":[31,33],
+    "Mei":[29,28],
+    "Juni":[32,30]
+    "Juli":[28,29],
+    "Agustus":[26,27],
+    "September":[25,30],
+    "Oktober":[26,26],
+    "November":[27,24],
+    "Desember":[28,23]
 }
